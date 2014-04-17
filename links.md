@@ -11,3 +11,4 @@ LINKS
 * wolterzo: http://www.cs.grinnell.edu/~wolterzo/messin.html
 * zahidmuh17: http://www.cs.grinnell.edu/~zahidmuh17/officematic.html
 * shaun: http://www.cs.grinnell.edu/~mataires/
+* madeleine: http://www.cs.grinnell.edu/~hardtmad/sun.html
