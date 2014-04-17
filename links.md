@@ -10,3 +10,4 @@ LINKS
 * schalger: http://www.cs.grinnell.edu/~schlager/schlager-php.html
 * wolterzo: http://www.cs.grinnell.edu/~wolterzo/messin.html
 * zahidmuh17: http://www.cs.grinnell.edu/~zahidmuh17/officematic.html
+* shaun: http://www.cs.grinnell.edu/~mataires/
