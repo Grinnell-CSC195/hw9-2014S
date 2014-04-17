@@ -8,4 +8,5 @@ LINKS
 * kyaruzia17 : http://www.cs.grinnell.edu/~kyaruzia17/siku.php
 * mitchell17: https://dormsdb.alexthemitchell.com
 * schalger: http://www.cs.grinnell.edu/~schlager/schlager-php.html
+* wolterzo: http://www.cs.grinnell.edu/~wolterzo/messin.html
 * zahidmuh17: http://www.cs.grinnell.edu/~zahidmuh17/officematic.html
